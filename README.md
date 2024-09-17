@@ -148,13 +148,13 @@ Here are some key screenshots from the presentation:
 |  :----------------------------------------:
 |         ![](Employee_Directory_1.png) 
 
-### Executive Leadership Dashboard
+### Executive Leadership 
 
 Sales Performance
 :----------------------------------------: 
 ![](1.png)
 
-### HR Dashboard
+### Human Resource
 
 |        Findings Recommendations
 |  :----------------------------------------:
