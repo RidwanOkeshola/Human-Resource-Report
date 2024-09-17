@@ -4,6 +4,8 @@
 
 This project focuses on analyzing the **Human Resources (HR)** data of **Adventure Works**, a multinational manufacturing company. The HR dashboards were designed to be presented to both the **HR Department** and **Executive Leadership** to provide insights into employee demographics, sales performance, hiring trends, and workforce management.
 
+![](HR.png)
+
 This project was created using data from the Adventure Works database, focusing on key metrics to help stakeholders make informed decisions. The dashboards were built using **Tableau** and presented in PowerPoint.
 
 You can interact with the Tableau Dashboard [here](https://public.tableau.com/views/HumanResourceDashboard_17250579779890/HR?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -138,7 +140,13 @@ Here are some key screenshots from the presentation:
 
 |       HR Overview
 |  :----------------------------------------:
-|         ![](HR 2.png) 
+|         ![](HR_2.png) 
+
+### Employee Directory
+
+|       Employee Directory
+|  :----------------------------------------:
+|         ![](Employee_Directory_1.png) 
 
 ### Executive Leadership Dashboard
 
