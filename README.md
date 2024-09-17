@@ -1,5 +1,5 @@
+![](logo.png)
 # Adventure Works Human Resource Dashboard
-
 ## Overview
 
 This project focuses on analyzing the **Human Resources (HR)** data of **Adventure Works**, a multinational manufacturing company. The HR dashboards were designed to be presented to both the **HR Department** and **Executive Leadership** to provide insights into employee demographics, sales performance, hiring trends, and workforce management.
@@ -133,6 +133,12 @@ You can access the full presentation [here](https://docs.google.com/presentation
 ## Screenshots
 
 Here are some key screenshots from the presentation:
+
+### Overview
+
+|       HR Overview
+|  :----------------------------------------:
+|         ![](HR 2.png) 
 
 ### Executive Leadership Dashboard
 
